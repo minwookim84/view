@@ -1,0 +1,159 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1357" measuredH="556" mockupW="1302" mockupH="531">
+  <controls>
+    <control controlID="10" controlTypeID="__group__" x="55" y="25" w="393" h="246" measuredW="393" measuredH="246" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Status%20-%20draft</controlName>
+        <markup>true</markup>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="37" y="25" w="-1" h="-1" measuredW="146" measuredH="104" zOrder="1" locked="false" isInGroup="10">
+          <controlProperties>
+            <color>16777215</color>
+            <size>60</size>
+            <text>draft</text>
+            <textOrientation>slanted</textOrientation>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="__group__" x="0" y="0" w="393" h="246" measuredW="393" measuredH="246" zOrder="0" locked="false" isInGroup="10">
+          <controlProperties>
+            <crop>506%2C497%2C494%2C503</crop>
+          </controlProperties>
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="796" h="489" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="4">
+              <controlProperties>
+                <borderColor>15843890</borderColor>
+                <color>15843890</color>
+                <shape>diamond</shape>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="11" controlTypeID="__group__" x="964" y="25" w="393" h="246" measuredW="393" measuredH="246" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Status%20-%20approved</controlName>
+        <markup>true</markup>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="262" measuredH="135" zOrder="1" locked="false" isInGroup="11">
+          <controlProperties>
+            <color>16777215</color>
+            <size>60</size>
+            <text>approved</text>
+            <textOrientation>slanted</textOrientation>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="__group__" x="0" y="0" w="393" h="246" measuredW="393" measuredH="246" zOrder="0" locked="false" isInGroup="11">
+          <controlProperties>
+            <crop>506%2C497%2C494%2C503</crop>
+          </controlProperties>
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="796" h="489" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="4">
+              <controlProperties>
+                <borderColor>3700253</borderColor>
+                <color>3700253</color>
+                <shape>diamond</shape>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="12" controlTypeID="__group__" x="527" y="27" w="393" h="246" measuredW="393" measuredH="246" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Status%20-%20review</controlName>
+        <markup>true</markup>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="0" y="7" w="-1" h="-1" measuredW="194" measuredH="117" zOrder="1" locked="false" isInGroup="12">
+          <controlProperties>
+            <color>16777215</color>
+            <size>60</size>
+            <text>review</text>
+            <textOrientation>slanted</textOrientation>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="__group__" x="0" y="0" w="393" h="246" measuredW="393" measuredH="246" zOrder="0" locked="false" isInGroup="12">
+          <controlProperties>
+            <crop>506%2C497%2C494%2C503</crop>
+          </controlProperties>
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="796" h="489" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="4">
+              <controlProperties>
+                <borderColor>545684</borderColor>
+                <color>545684</color>
+                <shape>diamond</shape>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="13" controlTypeID="__group__" x="964" y="310" w="393" h="246" measuredW="393" measuredH="246" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Status%20-%20review%20PO</controlName>
+        <markup>true</markup>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="0" y="7" w="-1" h="-1" measuredW="291" measuredH="143" zOrder="1" locked="false" isInGroup="13">
+          <controlProperties>
+            <color>16777215</color>
+            <size>60</size>
+            <text>review%20PO</text>
+            <textOrientation>slanted</textOrientation>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="__group__" x="0" y="0" w="393" h="246" measuredW="393" measuredH="246" zOrder="0" locked="false" isInGroup="13">
+          <controlProperties>
+            <crop>506%2C497%2C494%2C503</crop>
+          </controlProperties>
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="796" h="489" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="4">
+              <controlProperties>
+                <borderColor>6684672</borderColor>
+                <color>6684672</color>
+                <shape>diamond</shape>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="14" controlTypeID="__group__" x="527" y="310" w="393" h="246" measuredW="393" measuredH="246" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Status%20-%20review%20DEV</controlName>
+        <markup>true</markup>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="326" measuredH="152" zOrder="1" locked="false" isInGroup="14">
+          <controlProperties>
+            <color>16777215</color>
+            <size>60</size>
+            <text>review%20DEV</text>
+            <textOrientation>slanted</textOrientation>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="__group__" x="0" y="0" w="393" h="246" measuredW="393" measuredH="246" zOrder="0" locked="false" isInGroup="14">
+          <controlProperties>
+            <crop>506%2C497%2C494%2C503</crop>
+          </controlProperties>
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="796" h="489" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="4">
+              <controlProperties>
+                <borderColor>545684</borderColor>
+                <color>545684</color>
+                <shape>diamond</shape>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::StickyNote" x="55" y="330" w="225" h="226" measuredW="109" measuredH="123" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%7Bcolor%3A%23ff0000%7DAbout%7Bcolor%7D%20%0ALabels%20to%20indicate%20progress%0A%20%0A%7Bcolor%3A%23ff0000%7DInstallation%7Bcolor%7D%20%0ATo%20use%20as%20a%20symbol%20library%2C%20add%20to%20your%20account%20assets%20or%20to%20a%20project%20assets%20folder.%20%20%0A%20%0A%7Bcolor%3A%23ff0000%7DVersion%20History%7Bcolor%7D%20%0ASubmitted%20by%20Roland%20Studer%20on%2023%20Apr%202012.</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
