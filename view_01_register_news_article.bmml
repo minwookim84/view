@@ -1131,6 +1131,7 @@
       <controlProperties>
         <override controlID="0" x="0" y="0" w="259" h="190"/>
         <override controlID="34" x="3" y="13" w="23" h="30"/>
+        <override controlID="35" x="29" y="13" w="23" h="30"/>
         <override controlID="36" x="55" y="13" w="23" h="30"/>
         <override controlID="37" x="80" y="13" w="23" h="30"/>
         <override controlID="38" x="106" y="13" w="23" h="30"/>
@@ -1144,125 +1145,124 @@
         <override controlID="46" x="92" y="104" w="23" h="30"/>
         <override controlID="47" x="119" y="104" w="23" h="30"/>
         <override controlID="48" x="144" y="104" w="23" h="30"/>
+        <override controlID="49" x="170" y="104" w="23" h="30"/>
         <override controlID="50" x="195" y="104" w="23" h="30"/>
-        <override controlID="35" x="29" y="13" w="23" h="30"/>
+        <override controlID="51" x="194" y="60" w="23" h="30"/>
+        <override controlID="52" x="220" y="60" w="23" h="30"/>
         <override controlID="53" x="15" y="60" w="23" h="30"/>
+        <override controlID="54" x="40" y="60" w="23" h="30"/>
         <override controlID="55" x="66" y="60" w="23" h="30"/>
         <override controlID="56" x="91" y="60" w="23" h="30"/>
-        <override controlID="52" x="220" y="60" w="23" h="30"/>
-        <override controlID="54" x="40" y="60" w="23" h="30"/>
+        <override controlID="57" x="118" y="60" w="23" h="30"/>
+        <override controlID="58" x="143" y="60" w="23" h="30"/>
+        <override controlID="59" x="169" y="60" w="23" h="30"/>
+        <override controlID="60" x="3" y="104" w="33" h="30"/>
+        <override controlID="61" x="224" y="104" w="33" h="30"/>
+        <override controlID="62" x="3" y="151" w="27" h="30"/>
         <override controlID="63" x="86" y="151" w="106" h="30"/>
         <override controlID="64" x="60" y="151" w="23" h="30"/>
         <override controlID="65" x="194" y="151" w="63" h="30"/>
         <override controlID="66" x="34" y="151" w="23" h="30"/>
-        <override controlID="51" x="194" y="60" w="23" h="30"/>
-        <override controlID="57" x="118" y="60" w="23" h="30"/>
-        <override controlID="58" x="143" y="60" w="23" h="30"/>
-        <override controlID="49" x="170" y="104" w="23" h="30"/>
-        <override controlID="60" x="3" y="104" w="33" h="30"/>
-        <override controlID="61" x="224" y="104" w="33" h="30"/>
-        <override controlID="62" x="3" y="151" w="27" h="30"/>
-        <override controlID="59" x="169" y="60" w="23" h="30"/>
-        <override controlID="38:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="54:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="49:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="64:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="58:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="62:2" x="0" y="4" w="27" h="21"/>
-        <override controlID="50:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="63:1" x="0" y="0" w="106" h="29"/>
-        <override controlID="35:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="64:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="37:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="41:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="51:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="47:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="56:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="41:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="54:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="-1"/>
-        <override controlID="52:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="40:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="65:2" x="0" y="2" w="63" h="21"/>
-        <override controlID="37:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="66:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="61:2" x="0" y="5" w="33" h="21"/>
-        <override controlID="50:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="51:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="57:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="63:2" x="0" y="2" w="106" h="21"/>
-        <override controlID="59:2" x="0" y="4" w="23" h="21"/>
         <override controlID="45:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="37:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="62:0" x="0" y="0" w="27" h="30"/>
-        <override controlID="45:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="52:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="53:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="39:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="48:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="57:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="42:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="34:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="47:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="65:0" x="0" y="0" w="63" h="30"/>
-        <override controlID="49:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="53:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="47:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="44:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="44:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="56:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="40:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="56:0" x="0" y="0" w="23" h="30"/>
         <override controlID="46:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="41:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="44:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="57:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="53:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="66:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="44:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="39:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="43:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="40:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="48:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="39:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="54:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="42:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="38:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="64:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="36:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="57:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="56:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="44:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="50:1" x="0" y="0" w="23" h="29"/>
         <override controlID="36:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="63:1" x="0" y="0" w="106" h="29"/>
+        <override controlID="51:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="45:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="62:0" x="0" y="0" w="27" h="30"/>
+        <override controlID="58:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="42:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="46:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="48:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="34:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="52:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="45:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="48:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="58:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="51:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="55:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="61:1" x="0" y="0" w="33" h="29"/>
+        <override controlID="64:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="39:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="66:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="50:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="65:1" x="0" y="0" w="63" h="29"/>
+        <override controlID="57:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="61:0" x="0" y="0" w="33" h="30"/>
+        <override controlID="37:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="41:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="50:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="56:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="47:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="60:0" x="0" y="0" w="33" h="30"/>
+        <override controlID="55:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="62:2" x="0" y="4" w="27" h="21"/>
+        <override controlID="47:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="51:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="53:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="34:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="54:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="63:0" x="0" y="0" w="106" h="30"/>
+        <override controlID="66:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="46:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="37:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="62:1" x="0" y="0" w="27" h="29"/>
+        <override controlID="65:0" x="0" y="0" w="63" h="30"/>
+        <override controlID="-1"/>
+        <override controlID="38:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="41:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="58:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="59:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="52:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="65:2" x="0" y="2" w="63" h="21"/>
+        <override controlID="34:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="59:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="55:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="41:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="43:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="60:1" x="0" y="0" w="33" h="29"/>
+        <override controlID="38:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="43:0" x="0" y="0" w="23" h="30"/>
         <override controlID="40:1" x="0" y="0" w="23" h="29"/>
         <override controlID="54:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="65:1" x="0" y="0" w="63" h="29"/>
-        <override controlID="42:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="36:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="64:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="55:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="40:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="35:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="43:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="62:1" x="0" y="0" w="27" h="29"/>
-        <override controlID="60:0" x="0" y="0" w="33" h="30"/>
-        <override controlID="58:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="39:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="53:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="51:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="66:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="34:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="34:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="35:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="36:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="57:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="59:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="61:2" x="0" y="5" w="33" h="21"/>
+        <override controlID="35:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="64:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="49:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="52:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="37:1" x="0" y="0" w="23" h="29"/>
         <override controlID="59:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="42:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="39:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="46:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="38:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="50:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="48:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="60:1" x="0" y="0" w="33" h="29"/>
-        <override controlID="55:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="48:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="52:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="44:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="49:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="55:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="63:0" x="0" y="0" w="106" h="30"/>
-        <override controlID="61:0" x="0" y="0" w="33" h="30"/>
-        <override controlID="46:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="61:1" x="0" y="0" w="33" h="29"/>
-        <override controlID="43:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="45:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="56:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="66:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="38:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="42:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="63:2" x="0" y="2" w="106" h="21"/>
+        <override controlID="35:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="47:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="35:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="36:1" x="0" y="0" w="23" h="29"/>
         <override controlID="60:2" x="0" y="5" w="33" h="21"/>
-        <override controlID="43:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="58:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="49:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="49:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="53:2" x="0" y="4" w="23" h="21"/>
         <src>./assets/iOS7%20Controls.bmml#iOS7%20Keyboard%20Portrait</src>
       </controlProperties>
     </control>
@@ -1270,138 +1270,138 @@
       <controlProperties>
         <override controlID="0" x="0" y="0" w="259" h="190"/>
         <override controlID="34" x="3" y="13" w="23" h="30"/>
+        <override controlID="35" x="29" y="13" w="23" h="30"/>
         <override controlID="36" x="55" y="13" w="23" h="30"/>
+        <override controlID="37" x="80" y="13" w="23" h="30"/>
         <override controlID="38" x="106" y="13" w="23" h="30"/>
         <override controlID="39" x="131" y="13" w="23" h="30"/>
+        <override controlID="40" x="157" y="13" w="23" h="30"/>
         <override controlID="41" x="183" y="13" w="23" h="30"/>
         <override controlID="42" x="209" y="13" w="23" h="30"/>
+        <override controlID="43" x="234" y="13" w="23" h="30"/>
         <override controlID="44" x="41" y="104" w="23" h="30"/>
-        <override controlID="37" x="80" y="13" w="23" h="30"/>
+        <override controlID="45" x="67" y="104" w="23" h="30"/>
         <override controlID="46" x="92" y="104" w="23" h="30"/>
         <override controlID="47" x="119" y="104" w="23" h="30"/>
-        <override controlID="40" x="157" y="13" w="23" h="30"/>
-        <override controlID="43" x="234" y="13" w="23" h="30"/>
-        <override controlID="35" x="29" y="13" w="23" h="30"/>
-        <override controlID="54" x="40" y="60" w="23" h="30"/>
-        <override controlID="55" x="66" y="60" w="23" h="30"/>
         <override controlID="48" x="144" y="104" w="23" h="30"/>
         <override controlID="49" x="170" y="104" w="23" h="30"/>
         <override controlID="50" x="195" y="104" w="23" h="30"/>
+        <override controlID="51" x="194" y="60" w="23" h="30"/>
         <override controlID="52" x="220" y="60" w="23" h="30"/>
         <override controlID="53" x="15" y="60" w="23" h="30"/>
-        <override controlID="45" x="67" y="104" w="23" h="30"/>
+        <override controlID="54" x="40" y="60" w="23" h="30"/>
+        <override controlID="55" x="66" y="60" w="23" h="30"/>
+        <override controlID="56" x="91" y="60" w="23" h="30"/>
+        <override controlID="57" x="118" y="60" w="23" h="30"/>
+        <override controlID="58" x="143" y="60" w="23" h="30"/>
+        <override controlID="59" x="169" y="60" w="23" h="30"/>
+        <override controlID="60" x="3" y="104" w="33" h="30"/>
+        <override controlID="61" x="224" y="104" w="33" h="30"/>
+        <override controlID="62" x="3" y="151" w="27" h="30"/>
         <override controlID="63" x="86" y="151" w="106" h="30"/>
         <override controlID="64" x="60" y="151" w="23" h="30"/>
         <override controlID="65" x="194" y="151" w="63" h="30"/>
         <override controlID="66" x="34" y="151" w="23" h="30"/>
-        <override controlID="59" x="169" y="60" w="23" h="30"/>
-        <override controlID="51" x="194" y="60" w="23" h="30"/>
-        <override controlID="61" x="224" y="104" w="33" h="30"/>
-        <override controlID="62" x="3" y="151" w="27" h="30"/>
-        <override controlID="56" x="91" y="60" w="23" h="30"/>
-        <override controlID="57" x="118" y="60" w="23" h="30"/>
-        <override controlID="58" x="143" y="60" w="23" h="30"/>
-        <override controlID="60" x="3" y="104" w="33" h="30"/>
-        <override controlID="38:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="54:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="49:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="64:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="58:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="62:2" x="0" y="4" w="27" h="21"/>
-        <override controlID="50:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="63:1" x="0" y="0" w="106" h="29"/>
-        <override controlID="35:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="64:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="51:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="47:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="41:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="37:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="56:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="61:2" x="0" y="5" w="33" h="21"/>
-        <override controlID="41:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="65:2" x="0" y="2" w="63" h="21"/>
-        <override controlID="37:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="-1"/>
-        <override controlID="54:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="66:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="51:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="57:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="63:2" x="0" y="2" w="106" h="21"/>
-        <override controlID="40:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="52:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="37:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="50:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="62:0" x="0" y="0" w="27" h="30"/>
-        <override controlID="45:1" x="0" y="0" w="23" h="29"/>
         <override controlID="45:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="52:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="59:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="53:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="39:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="48:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="57:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="42:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="34:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="47:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="65:0" x="0" y="0" w="63" h="30"/>
-        <override controlID="49:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="53:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="47:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="44:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="40:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="56:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="40:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="56:0" x="0" y="0" w="23" h="30"/>
         <override controlID="46:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="41:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="44:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="57:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="53:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="66:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="44:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="39:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="43:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="40:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="48:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="39:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="54:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="42:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="38:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="64:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="36:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="57:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="56:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="44:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="50:1" x="0" y="0" w="23" h="29"/>
         <override controlID="36:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="63:1" x="0" y="0" w="106" h="29"/>
+        <override controlID="51:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="45:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="62:0" x="0" y="0" w="27" h="30"/>
+        <override controlID="58:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="42:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="46:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="48:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="34:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="52:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="45:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="48:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="58:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="51:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="55:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="61:1" x="0" y="0" w="33" h="29"/>
+        <override controlID="64:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="39:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="66:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="50:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="65:1" x="0" y="0" w="63" h="29"/>
+        <override controlID="57:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="61:0" x="0" y="0" w="33" h="30"/>
+        <override controlID="37:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="41:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="50:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="56:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="47:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="60:0" x="0" y="0" w="33" h="30"/>
+        <override controlID="55:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="62:2" x="0" y="4" w="27" h="21"/>
+        <override controlID="47:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="51:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="53:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="34:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="54:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="63:0" x="0" y="0" w="106" h="30"/>
+        <override controlID="66:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="46:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="37:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="62:1" x="0" y="0" w="27" h="29"/>
+        <override controlID="65:0" x="0" y="0" w="63" h="30"/>
+        <override controlID="-1"/>
+        <override controlID="38:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="41:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="58:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="59:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="52:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="65:2" x="0" y="2" w="63" h="21"/>
+        <override controlID="34:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="59:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="55:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="41:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="43:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="60:1" x="0" y="0" w="33" h="29"/>
+        <override controlID="38:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="43:0" x="0" y="0" w="23" h="30"/>
         <override controlID="40:1" x="0" y="0" w="23" h="29"/>
         <override controlID="54:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="65:1" x="0" y="0" w="63" h="29"/>
-        <override controlID="42:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="36:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="64:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="55:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="44:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="35:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="43:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="62:1" x="0" y="0" w="27" h="29"/>
-        <override controlID="60:0" x="0" y="0" w="33" h="30"/>
-        <override controlID="58:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="39:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="53:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="51:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="66:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="34:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="34:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="35:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="36:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="57:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="59:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="61:2" x="0" y="5" w="33" h="21"/>
+        <override controlID="35:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="64:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="49:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="52:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="37:1" x="0" y="0" w="23" h="29"/>
         <override controlID="59:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="42:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="39:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="46:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="38:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="50:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="48:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="60:1" x="0" y="0" w="33" h="29"/>
-        <override controlID="55:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="48:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="52:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="44:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="49:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="55:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="63:0" x="0" y="0" w="106" h="30"/>
-        <override controlID="61:0" x="0" y="0" w="33" h="30"/>
-        <override controlID="46:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="61:1" x="0" y="0" w="33" h="29"/>
-        <override controlID="43:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="45:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="56:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="66:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="38:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="42:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="63:2" x="0" y="2" w="106" h="21"/>
+        <override controlID="35:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="47:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="35:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="36:1" x="0" y="0" w="23" h="29"/>
         <override controlID="60:2" x="0" y="5" w="33" h="21"/>
-        <override controlID="43:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="58:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="49:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="49:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="53:2" x="0" y="4" w="23" h="21"/>
         <src>./assets/iOS7%20Controls.bmml#iOS7%20Keyboard%20Portrait</src>
       </controlProperties>
     </control>
@@ -1409,139 +1409,145 @@
       <controlProperties>
         <override controlID="0" x="0" y="0" w="259" h="190"/>
         <override controlID="34" x="3" y="13" w="23" h="30"/>
+        <override controlID="35" x="29" y="13" w="23" h="30"/>
         <override controlID="36" x="55" y="13" w="23" h="30"/>
+        <override controlID="37" x="80" y="13" w="23" h="30"/>
         <override controlID="38" x="106" y="13" w="23" h="30"/>
         <override controlID="39" x="131" y="13" w="23" h="30"/>
+        <override controlID="40" x="157" y="13" w="23" h="30"/>
         <override controlID="41" x="183" y="13" w="23" h="30"/>
         <override controlID="42" x="209" y="13" w="23" h="30"/>
+        <override controlID="43" x="234" y="13" w="23" h="30"/>
         <override controlID="44" x="41" y="104" w="23" h="30"/>
-        <override controlID="37" x="80" y="13" w="23" h="30"/>
+        <override controlID="45" x="67" y="104" w="23" h="30"/>
         <override controlID="46" x="92" y="104" w="23" h="30"/>
         <override controlID="47" x="119" y="104" w="23" h="30"/>
-        <override controlID="40" x="157" y="13" w="23" h="30"/>
-        <override controlID="43" x="234" y="13" w="23" h="30"/>
-        <override controlID="35" x="29" y="13" w="23" h="30"/>
-        <override controlID="54" x="40" y="60" w="23" h="30"/>
-        <override controlID="55" x="66" y="60" w="23" h="30"/>
         <override controlID="48" x="144" y="104" w="23" h="30"/>
         <override controlID="49" x="170" y="104" w="23" h="30"/>
         <override controlID="50" x="195" y="104" w="23" h="30"/>
+        <override controlID="51" x="194" y="60" w="23" h="30"/>
         <override controlID="52" x="220" y="60" w="23" h="30"/>
         <override controlID="53" x="15" y="60" w="23" h="30"/>
-        <override controlID="45" x="67" y="104" w="23" h="30"/>
+        <override controlID="54" x="40" y="60" w="23" h="30"/>
+        <override controlID="55" x="66" y="60" w="23" h="30"/>
+        <override controlID="56" x="91" y="60" w="23" h="30"/>
+        <override controlID="57" x="118" y="60" w="23" h="30"/>
+        <override controlID="58" x="143" y="60" w="23" h="30"/>
+        <override controlID="59" x="169" y="60" w="23" h="30"/>
+        <override controlID="60" x="3" y="104" w="33" h="30"/>
+        <override controlID="61" x="224" y="104" w="33" h="30"/>
+        <override controlID="62" x="3" y="151" w="27" h="30"/>
         <override controlID="63" x="86" y="151" w="106" h="30"/>
         <override controlID="64" x="60" y="151" w="23" h="30"/>
         <override controlID="65" x="194" y="151" w="63" h="30"/>
         <override controlID="66" x="34" y="151" w="23" h="30"/>
-        <override controlID="59" x="169" y="60" w="23" h="30"/>
-        <override controlID="51" x="194" y="60" w="23" h="30"/>
-        <override controlID="61" x="224" y="104" w="33" h="30"/>
-        <override controlID="62" x="3" y="151" w="27" h="30"/>
-        <override controlID="56" x="91" y="60" w="23" h="30"/>
-        <override controlID="57" x="118" y="60" w="23" h="30"/>
-        <override controlID="58" x="143" y="60" w="23" h="30"/>
-        <override controlID="60" x="3" y="104" w="33" h="30"/>
-        <override controlID="38:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="54:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="49:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="64:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="58:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="62:2" x="0" y="4" w="27" h="21"/>
-        <override controlID="50:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="63:1" x="0" y="0" w="106" h="29"/>
-        <override controlID="35:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="64:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="51:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="47:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="41:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="37:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="45:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="40:2" x="0" y="4" w="23" h="21"/>
         <override controlID="56:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="61:2" x="0" y="5" w="33" h="21"/>
-        <override controlID="-1"/>
-        <override controlID="65:2" x="0" y="2" w="63" h="21"/>
+        <override controlID="46:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="44:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="57:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="53:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="66:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="44:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="39:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="43:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="40:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="48:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="39:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="54:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="42:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="38:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="64:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="36:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="57:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="56:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="44:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="50:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="36:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="63:1" x="0" y="0" w="106" h="29"/>
+        <override controlID="51:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="45:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="62:0" x="0" y="0" w="27" h="30"/>
+        <override controlID="58:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="42:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="46:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="48:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="34:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="52:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="45:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="48:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="58:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="51:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="55:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="61:1" x="0" y="0" w="33" h="29"/>
+        <override controlID="64:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="39:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="66:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="50:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="65:1" x="0" y="0" w="63" h="29"/>
+        <override controlID="57:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="61:0" x="0" y="0" w="33" h="30"/>
         <override controlID="37:0" x="0" y="0" w="23" h="30"/>
         <override controlID="41:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="54:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="66:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="51:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="57:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="63:2" x="0" y="2" w="106" h="21"/>
-        <override controlID="40:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="52:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="37:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="50:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="62:0" x="0" y="0" w="27" h="30"/>
-        <override controlID="45:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="45:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="52:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="59:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="53:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="39:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="48:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="57:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="42:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="34:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="50:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="56:2" x="0" y="4" w="23" h="21"/>
         <override controlID="47:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="60:0" x="0" y="0" w="33" h="30"/>
+        <override controlID="55:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="62:2" x="0" y="4" w="27" h="21"/>
+        <override controlID="47:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="51:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="53:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="34:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="54:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="63:0" x="0" y="0" w="106" h="30"/>
+        <override controlID="66:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="46:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="37:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="62:1" x="0" y="0" w="27" h="29"/>
         <override controlID="65:0" x="0" y="0" w="63" h="30"/>
-        <override controlID="49:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="53:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="47:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="44:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="44:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="56:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="46:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="-1"/>
+        <override controlID="38:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="41:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="58:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="59:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="52:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="65:2" x="0" y="2" w="63" h="21"/>
+        <override controlID="34:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="59:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="55:2" x="0" y="4" w="23" h="21"/>
         <override controlID="41:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="36:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="43:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="60:1" x="0" y="0" w="33" h="29"/>
+        <override controlID="38:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="43:0" x="0" y="0" w="23" h="30"/>
         <override controlID="40:1" x="0" y="0" w="23" h="29"/>
         <override controlID="54:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="65:1" x="0" y="0" w="63" h="29"/>
-        <override controlID="42:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="36:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="64:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="55:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="40:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="35:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="43:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="62:1" x="0" y="0" w="27" h="29"/>
-        <override controlID="60:0" x="0" y="0" w="33" h="30"/>
-        <override controlID="58:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="39:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="53:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="51:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="66:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="34:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="34:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="35:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="36:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="57:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="59:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="61:2" x="0" y="5" w="33" h="21"/>
+        <override controlID="35:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="64:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="49:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="52:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="37:1" x="0" y="0" w="23" h="29"/>
         <override controlID="59:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="42:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="39:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="46:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="38:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="50:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="48:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="60:1" x="0" y="0" w="33" h="29"/>
-        <override controlID="55:0" x="0" y="0" w="23" h="30"/>
-        <override controlID="48:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="52:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="44:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="49:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="55:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="63:0" x="0" y="0" w="106" h="30"/>
-        <override controlID="61:0" x="0" y="0" w="33" h="30"/>
-        <override controlID="46:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="61:1" x="0" y="0" w="33" h="29"/>
-        <override controlID="43:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="45:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="56:2" x="0" y="4" w="23" h="21"/>
-        <override controlID="66:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="38:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="42:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="63:2" x="0" y="2" w="106" h="21"/>
+        <override controlID="35:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="47:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="35:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="36:1" x="0" y="0" w="23" h="29"/>
         <override controlID="60:2" x="0" y="5" w="33" h="21"/>
-        <override controlID="43:1" x="0" y="0" w="23" h="29"/>
-        <override controlID="58:1" x="0" y="0" w="23" h="29"/>
+        <override controlID="49:2" x="0" y="4" w="23" h="21"/>
+        <override controlID="49:0" x="0" y="0" w="23" h="30"/>
+        <override controlID="53:2" x="0" y="4" w="23" h="21"/>
         <src>./assets/iOS7%20Controls.bmml#iOS7%20Keyboard%20Portrait</src>
+      </controlProperties>
+    </control>
+    <control controlID="315" controlTypeID="com.balsamiq.mockups::StickyNote" x="1393" y="843" w="257" h="134" measuredW="109" measuredH="123" zOrder="98" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>%uC8FC%uC5F0%20%uC758%uACAC%3A%20%uD55C%20%uD654%uBA74%uC5D0%20%uBAA8%uB450%20%uB123%uC9C0%20%uB9D0%uACE0%2C%20%uBA87%20%uB2E8%uACC4%uB85C%20%uB098%uB204%uC790.%20%20%uBAA8%uB4E0%20%uD56D%uBAA9%uC744%20%uD55C%20%uD654%uBA74%uC5D0%20%uB123%uC73C%uBA74%20%uB108%uBB34%20%uBCF5%uC7A1%uD55C%20%uB290%uB08C%uC774%20%uB4E4%20%uC218%20%uC788%uB2E4.</text>
       </controlProperties>
     </control>
   </controls>
