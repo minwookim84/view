@@ -33,40 +33,40 @@
         <shape>rectangle</shape>
       </controlProperties>
     </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="274" y="275" w="304" h="-1" measuredW="304" measuredH="48" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="274" y="275" w="304" h="-1" measuredW="160" measuredH="48" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <size>40</size>
-        <text>%uBB34%uC778%20%uD56D%uACF5%uAE30%20%uBC1C%uACAC</text>
+        <text>%uBB34%uC778%uC591%uD488</text>
       </controlProperties>
     </control>
-    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="274" y="390" w="232" h="-1" measuredW="232" measuredH="48" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="274" y="390" w="506" h="-1" measuredW="476" measuredH="48" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <size>40</size>
-        <text>6.4%20%uC9C0%uBC29%uC120%uAC70</text>
+        <text>%uBB34%uC548%uB2E8%uBB3C%20%uCC0C%uC9C0%uC9C1%20%uD391%20%uD558%uBA74%uC11C</text>
       </controlProperties>
     </control>
-    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="274" y="508" w="320" h="-1" measuredW="320" measuredH="48" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="274" y="508" w="320" h="-1" measuredW="120" measuredH="48" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <size>40</size>
-        <text>%uAD6C%uAE00%20%uAE00%uB798%uC2A4%20%uBC14%uAC90..</text>
+        <text>%uBB34%uC778%uAE30</text>
       </controlProperties>
     </control>
-    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="274" y="624" w="308" h="-1" measuredW="308" measuredH="48" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="274" y="624" w="308" h="-1" measuredW="212" measuredH="48" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <size>40</size>
-        <text>%uAC04%uCCA9%uC0AC%uAC74%20%uC99D%uAC70%uC870..</text>
+        <text>%uBB34%uC778%20%uD56D%uACF5%uAE30</text>
       </controlProperties>
     </control>
-    <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="274" y="742" w="320" h="-1" measuredW="320" measuredH="48" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="274" y="742" w="391" h="-1" measuredW="372" measuredH="48" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <size>40</size>
-        <text>%uAC1C%uC778%uC815%uBCF4%20%uC720%uCD9C%20%uB300..</text>
+        <text>%uBB34%uC5C7%uC774%uB4E0%20%uBB3C%uC5B4%uBCF4%uC138%uC694</text>
       </controlProperties>
     </control>
-    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="274" y="857" w="252" h="-1" measuredW="252" measuredH="48" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="274" y="857" w="252" h="-1" measuredW="143" measuredH="48" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <size>40</size>
-        <text>%uD1B5%uC0C1%uC784%uAE08%20%uB17C%uB780</text>
+        <text>%uBB34%uC5B4%uC694%3F</text>
       </controlProperties>
     </control>
     <control controlID="15" controlTypeID="com.balsamiq.mockups::HRule" x="235" y="346" w="630" h="-1" measuredW="100" measuredH="10" zOrder="13" locked="false" isInGroup="-1"/>
