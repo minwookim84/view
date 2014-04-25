@@ -25,7 +25,7 @@
         <text>%uB204%uB974%uBA74%20E1%20%uD654%uBA74%20%uB744%uC6C0.%20%0A%uD604%uC7AC%20%uC774%uBBF8%20E1%20%uD654%uBA74%uC5D0%20%uC788%uC73C%uBBC0%uB85C%20%uB20C%uB7EC%uB3C4%20%uC544%uBB34%20%uBC18%uC751%20%uC5C6%uC74C</text>
       </controlProperties>
     </control>
-    <control controlID="12" controlTypeID="__group__" x="135" y="879" w="95" h="40" measuredW="95" measuredH="40" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="12" controlTypeID="__group__" x="135" y="879" w="226" h="157" measuredW="226" measuredH="157" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <markup>true</markup>
       </controlProperties>
@@ -47,12 +47,13 @@
         <control controlID="2" controlTypeID="com.balsamiq.mockups::Component" x="76" y="7" w="14" h="14" measuredW="14" measuredH="14" zOrder="2" locked="false" isInGroup="12">
           <controlProperties>
             <override controlID="0" x="0" y="0" w="14" h="14"/>
+            <override controlID="-1"/>
             <src>./assets/Touch%20Gesture%20Notation.bmml#gesture-touch</src>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="20" controlTypeID="__group__" x="372" y="906" w="95" h="40" measuredW="95" measuredH="40" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="20" controlTypeID="__group__" x="372" y="906" w="155" h="157" measuredW="155" measuredH="157" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <markup>true</markup>
       </controlProperties>
@@ -74,13 +75,12 @@
         <control controlID="2" controlTypeID="com.balsamiq.mockups::Component" x="5" y="7" w="14" h="14" measuredW="14" measuredH="14" zOrder="2" locked="false" isInGroup="20">
           <controlProperties>
             <override controlID="0" x="0" y="0" w="14" h="14"/>
-            <override controlID="-1"/>
             <src>./assets/Touch%20Gesture%20Notation.bmml#gesture-touch</src>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="22" controlTypeID="__group__" x="148" y="1227" w="95" h="40" measuredW="95" measuredH="40" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="22" controlTypeID="__group__" x="148" y="1227" w="226" h="157" measuredW="226" measuredH="157" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <markup>true</markup>
       </controlProperties>
@@ -102,13 +102,12 @@
         <control controlID="2" controlTypeID="com.balsamiq.mockups::Component" x="76" y="7" w="14" h="14" measuredW="14" measuredH="14" zOrder="2" locked="false" isInGroup="22">
           <controlProperties>
             <override controlID="0" x="0" y="0" w="14" h="14"/>
-            <override controlID="-1"/>
             <src>./assets/Touch%20Gesture%20Notation.bmml#gesture-touch</src>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="23" controlTypeID="__group__" x="320" y="1206" w="71" h="67" measuredW="71" measuredH="67" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="23" controlTypeID="__group__" x="320" y="1206" w="155" h="184" measuredW="155" measuredH="184" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <markup>true</markup>
       </controlProperties>
@@ -130,12 +129,13 @@
         <control controlID="2" controlTypeID="com.balsamiq.mockups::Component" x="5" y="34" w="14" h="14" measuredW="14" measuredH="14" zOrder="2" locked="false" isInGroup="23">
           <controlProperties>
             <override controlID="0" x="0" y="0" w="14" h="14"/>
+            <override controlID="-1"/>
             <src>./assets/Touch%20Gesture%20Notation.bmml#gesture-touch</src>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="25" controlTypeID="__group__" x="396" y="1221" w="95" h="52" measuredW="95" measuredH="52" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="25" controlTypeID="__group__" x="396" y="1221" w="155" h="169" measuredW="155" measuredH="169" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <markup>true</markup>
       </controlProperties>
@@ -157,6 +157,7 @@
         <control controlID="2" controlTypeID="com.balsamiq.mockups::Component" x="5" y="19" w="14" h="14" measuredW="14" measuredH="14" zOrder="2" locked="false" isInGroup="25">
           <controlProperties>
             <override controlID="0" x="0" y="0" w="14" h="14"/>
+            <override controlID="-1"/>
             <src>./assets/Touch%20Gesture%20Notation.bmml#gesture-touch</src>
           </controlProperties>
         </control>
@@ -632,7 +633,7 @@
         <text>act1.4%uC5D0%uC11C%20%uD504%uB85C%uD544%20%uD654%uBA74%uC73C%uB85C%20%uB4E4%uC5B4%uAC00%uBA74%20%27%uB0B4%20100%uC790%uD3C9%27%20%uD654%uBA74%20%uBCF4%uC5EC%uC90C.%0A5%uAC1C%uC529%20Infinite%20Scroll%uB85C%20%uB85C%uB4DC%uD558%uAE30</text>
       </controlProperties>
     </control>
-    <control controlID="130" controlTypeID="__group__" x="762" y="855" w="95" h="40" measuredW="95" measuredH="40" zOrder="24" locked="false" isInGroup="-1">
+    <control controlID="130" controlTypeID="__group__" x="762" y="855" w="226" h="157" measuredW="226" measuredH="157" zOrder="24" locked="false" isInGroup="-1">
       <controlProperties>
         <markup>true</markup>
       </controlProperties>
@@ -654,7 +655,6 @@
         <control controlID="2" controlTypeID="com.balsamiq.mockups::Component" x="76" y="7" w="14" h="14" measuredW="14" measuredH="14" zOrder="2" locked="false" isInGroup="130">
           <controlProperties>
             <override controlID="0" x="0" y="0" w="14" h="14"/>
-            <override controlID="-1"/>
             <src>./assets/Touch%20Gesture%20Notation.bmml#gesture-touch</src>
           </controlProperties>
         </control>
@@ -665,7 +665,7 @@
         <text>%uB204%uB974%uBA74%20%uC774%uC804%20%uD654%uBA74%28%uBA54%uB274%uBC84%uD2BC%20%uB204%uB974%uAE30%20%uC774%uC804%20%uD654%uBA74%29%uC73C%uB85C%20%uC774%uB3D9.%20</text>
       </controlProperties>
     </control>
-    <control controlID="132" controlTypeID="__group__" x="886" y="890" w="71" h="61" measuredW="71" measuredH="61" zOrder="25" locked="false" isInGroup="-1">
+    <control controlID="132" controlTypeID="__group__" x="886" y="890" w="178" h="178" measuredW="178" measuredH="178" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
         <markup>true</markup>
       </controlProperties>
@@ -687,6 +687,7 @@
         <control controlID="2" controlTypeID="com.balsamiq.mockups::Component" x="28" y="28" w="14" h="14" measuredW="14" measuredH="14" zOrder="2" locked="false" isInGroup="132">
           <controlProperties>
             <override controlID="0" x="0" y="0" w="14" h="14"/>
+            <override controlID="-1"/>
             <src>./assets/Touch%20Gesture%20Notation.bmml#gesture-touch</src>
           </controlProperties>
         </control>
@@ -881,7 +882,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="149" controlTypeID="__group__" x="799" y="422" w="105" h="40" measuredW="105" measuredH="40" zOrder="38" locked="false" isInGroup="-1">
+    <control controlID="149" controlTypeID="__group__" x="799" y="422" w="237" h="157" measuredW="237" measuredH="157" zOrder="38" locked="false" isInGroup="-1">
       <controlProperties>
         <markup>true</markup>
       </controlProperties>
@@ -903,12 +904,13 @@
         <control controlID="2" controlTypeID="com.balsamiq.mockups::Component" x="87" y="7" w="16" h="14" measuredW="16" measuredH="14" zOrder="2" locked="false" isInGroup="149">
           <controlProperties>
             <override controlID="0" x="0" y="0" w="16" h="14"/>
+            <override controlID="-1"/>
             <src>./assets/Touch%20Gesture%20Notation.bmml#gesture-touch</src>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="150" controlTypeID="__group__" x="1036" y="449" w="110" h="40" measuredW="110" measuredH="40" zOrder="34" locked="false" isInGroup="-1">
+    <control controlID="150" controlTypeID="__group__" x="1036" y="449" w="155" h="157" measuredW="155" measuredH="157" zOrder="34" locked="false" isInGroup="-1">
       <controlProperties>
         <markup>true</markup>
       </controlProperties>
@@ -930,13 +932,12 @@
         <control controlID="2" controlTypeID="com.balsamiq.mockups::Component" x="5" y="7" w="14" h="14" measuredW="14" measuredH="14" zOrder="2" locked="false" isInGroup="150">
           <controlProperties>
             <override controlID="0" x="0" y="0" w="14" h="14"/>
-            <override controlID="-1"/>
             <src>./assets/Touch%20Gesture%20Notation.bmml#gesture-touch</src>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="151" controlTypeID="__group__" x="990" y="505" w="111" h="48" measuredW="111" measuredH="48" zOrder="40" locked="false" isInGroup="-1">
+    <control controlID="151" controlTypeID="__group__" x="990" y="505" w="156" h="150" measuredW="156" measuredH="150" zOrder="40" locked="false" isInGroup="-1">
       <controlProperties>
         <markup>true</markup>
       </controlProperties>
@@ -958,6 +959,7 @@
         <control controlID="2" controlTypeID="com.balsamiq.mockups::Component" x="6" y="0" w="16" h="14" measuredW="16" measuredH="14" zOrder="2" locked="false" isInGroup="151">
           <controlProperties>
             <override controlID="0" x="0" y="0" w="16" h="14"/>
+            <override controlID="-1"/>
             <src>./assets/Touch%20Gesture%20Notation.bmml#gesture-touch</src>
           </controlProperties>
         </control>
@@ -999,7 +1001,7 @@
         <text>%uBA54%uB274%20%uB2EB%uAE30</text>
       </controlProperties>
     </control>
-    <control controlID="161" controlTypeID="__group__" x="1026" y="1042" w="90" h="33" measuredW="90" measuredH="33" zOrder="41" locked="false" isInGroup="-1">
+    <control controlID="161" controlTypeID="__group__" x="1026" y="1042" w="155" h="150" measuredW="155" measuredH="150" zOrder="41" locked="false" isInGroup="-1">
       <controlProperties>
         <markup>true</markup>
       </controlProperties>
@@ -1021,12 +1023,13 @@
         <control controlID="2" controlTypeID="com.balsamiq.mockups::Component" x="5" y="0" w="14" h="14" measuredW="14" measuredH="14" zOrder="2" locked="false" isInGroup="161">
           <controlProperties>
             <override controlID="0" x="0" y="0" w="14" h="14"/>
+            <override controlID="-1"/>
             <src>./assets/Touch%20Gesture%20Notation.bmml#gesture-touch</src>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="162" controlTypeID="__group__" x="1033" y="990" w="95" h="40" measuredW="95" measuredH="40" zOrder="42" locked="false" isInGroup="-1">
+    <control controlID="162" controlTypeID="__group__" x="1033" y="990" w="155" h="157" measuredW="155" measuredH="157" zOrder="42" locked="false" isInGroup="-1">
       <controlProperties>
         <markup>true</markup>
       </controlProperties>
@@ -1048,7 +1051,6 @@
         <control controlID="2" controlTypeID="com.balsamiq.mockups::Component" x="5" y="7" w="14" h="14" measuredW="14" measuredH="14" zOrder="2" locked="false" isInGroup="162">
           <controlProperties>
             <override controlID="0" x="0" y="0" w="14" h="14"/>
-            <override controlID="-1"/>
             <src>./assets/Touch%20Gesture%20Notation.bmml#gesture-touch</src>
           </controlProperties>
         </control>
@@ -1064,7 +1066,7 @@
         <text>%uD574%uB2F9%20%uD0ED%20%uD654%uBA74%uC73C%uB85C%20%uC774%uB3D9</text>
       </controlProperties>
     </control>
-    <control controlID="165" controlTypeID="__group__" x="995" y="1120" w="90" h="33" measuredW="90" measuredH="33" zOrder="45" locked="false" isInGroup="-1">
+    <control controlID="165" controlTypeID="__group__" x="995" y="1120" w="155" h="150" measuredW="155" measuredH="150" zOrder="45" locked="false" isInGroup="-1">
       <controlProperties>
         <markup>true</markup>
       </controlProperties>
@@ -1086,7 +1088,6 @@
         <control controlID="2" controlTypeID="com.balsamiq.mockups::Component" x="5" y="0" w="14" h="14" measuredW="14" measuredH="14" zOrder="2" locked="false" isInGroup="165">
           <controlProperties>
             <override controlID="0" x="0" y="0" w="14" h="14"/>
-            <override controlID="-1"/>
             <src>./assets/Touch%20Gesture%20Notation.bmml#gesture-touch</src>
           </controlProperties>
         </control>
@@ -1140,7 +1141,7 @@
       </controlProperties>
     </control>
     <control controlID="181" controlTypeID="com.balsamiq.mockups::Image" x="1459" y="1144" w="52" h="45" measuredW="77" measuredH="79" zOrder="53" locked="false" isInGroup="-1"/>
-    <control controlID="182" controlTypeID="__group__" x="1438" y="1030" w="95" h="40" measuredW="95" measuredH="40" zOrder="54" locked="false" isInGroup="-1">
+    <control controlID="182" controlTypeID="__group__" x="1438" y="1030" w="226" h="157" measuredW="226" measuredH="157" zOrder="54" locked="false" isInGroup="-1">
       <controlProperties>
         <markup>true</markup>
       </controlProperties>
@@ -1162,6 +1163,7 @@
         <control controlID="2" controlTypeID="com.balsamiq.mockups::Component" x="76" y="7" w="14" h="14" measuredW="14" measuredH="14" zOrder="2" locked="false" isInGroup="182">
           <controlProperties>
             <override controlID="0" x="0" y="0" w="14" h="14"/>
+            <override controlID="-1"/>
             <src>./assets/Touch%20Gesture%20Notation.bmml#gesture-touch</src>
           </controlProperties>
         </control>
@@ -1211,7 +1213,7 @@
         <text>%uAD00%uB828%20%uAE30%uC0AC%3A%2087%uAC1C</text>
       </controlProperties>
     </control>
-    <control controlID="194" controlTypeID="__group__" x="1894" y="1030" w="95" h="40" measuredW="95" measuredH="40" zOrder="64" locked="false" isInGroup="-1">
+    <control controlID="194" controlTypeID="__group__" x="1894" y="1030" w="226" h="157" measuredW="226" measuredH="157" zOrder="64" locked="false" isInGroup="-1">
       <controlProperties>
         <markup>true</markup>
       </controlProperties>
@@ -1233,7 +1235,6 @@
         <control controlID="2" controlTypeID="com.balsamiq.mockups::Component" x="76" y="7" w="14" h="14" measuredW="14" measuredH="14" zOrder="2" locked="false" isInGroup="194">
           <controlProperties>
             <override controlID="0" x="0" y="0" w="14" h="14"/>
-            <override controlID="-1"/>
             <src>./assets/Touch%20Gesture%20Notation.bmml#gesture-touch</src>
           </controlProperties>
         </control>
@@ -1276,7 +1277,7 @@
         <text>E3.%20%27%uB354%uBCF4%uAE30%27%20%uD654%uBA74%20%28HELP%20/%20About%20/%20%uC758%uACAC%uBCF4%uB0B4%uAE30%29</text>
       </controlProperties>
     </control>
-    <control controlID="212" controlTypeID="__group__" x="753" y="1589" w="95" h="40" measuredW="95" measuredH="40" zOrder="79" locked="false" isInGroup="-1">
+    <control controlID="212" controlTypeID="__group__" x="753" y="1589" w="226" h="157" measuredW="226" measuredH="157" zOrder="79" locked="false" isInGroup="-1">
       <controlProperties>
         <markup>true</markup>
       </controlProperties>
@@ -1298,6 +1299,7 @@
         <control controlID="2" controlTypeID="com.balsamiq.mockups::Component" x="76" y="7" w="14" h="14" measuredW="14" measuredH="14" zOrder="2" locked="false" isInGroup="212">
           <controlProperties>
             <override controlID="0" x="0" y="0" w="14" h="14"/>
+            <override controlID="-1"/>
             <src>./assets/Touch%20Gesture%20Notation.bmml#gesture-touch</src>
           </controlProperties>
         </control>
@@ -1461,7 +1463,7 @@
         <shape>rectangle</shape>
       </controlProperties>
     </control>
-    <control controlID="252" controlTypeID="__group__" x="988" y="1670" w="71" h="61" measuredW="71" measuredH="61" zOrder="91" locked="false" isInGroup="-1">
+    <control controlID="252" controlTypeID="__group__" x="988" y="1670" w="162" h="178" measuredW="162" measuredH="178" zOrder="91" locked="false" isInGroup="-1">
       <controlProperties>
         <markup>true</markup>
       </controlProperties>
@@ -1483,13 +1485,12 @@
         <control controlID="2" controlTypeID="com.balsamiq.mockups::Component" x="12" y="28" w="14" h="14" measuredW="14" measuredH="14" zOrder="2" locked="false" isInGroup="252">
           <controlProperties>
             <override controlID="0" x="0" y="0" w="14" h="14"/>
-            <override controlID="-1"/>
             <src>./assets/Touch%20Gesture%20Notation.bmml#gesture-touch</src>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="253" controlTypeID="__group__" x="1002" y="1737" w="97" h="33" measuredW="97" measuredH="33" zOrder="92" locked="false" isInGroup="-1">
+    <control controlID="253" controlTypeID="__group__" x="1002" y="1737" w="155" h="150" measuredW="155" measuredH="150" zOrder="92" locked="false" isInGroup="-1">
       <controlProperties>
         <markup>true</markup>
       </controlProperties>
@@ -1511,12 +1512,13 @@
         <control controlID="2" controlTypeID="com.balsamiq.mockups::Component" x="5" y="0" w="14" h="14" measuredW="14" measuredH="14" zOrder="2" locked="false" isInGroup="253">
           <controlProperties>
             <override controlID="0" x="0" y="0" w="14" h="14"/>
+            <override controlID="-1"/>
             <src>./assets/Touch%20Gesture%20Notation.bmml#gesture-touch</src>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="254" controlTypeID="__group__" x="1006" y="1824" w="95" h="40" measuredW="95" measuredH="40" zOrder="93" locked="false" isInGroup="-1">
+    <control controlID="254" controlTypeID="__group__" x="1006" y="1824" w="155" h="157" measuredW="155" measuredH="157" zOrder="93" locked="false" isInGroup="-1">
       <controlProperties>
         <markup>true</markup>
       </controlProperties>
@@ -1538,13 +1540,12 @@
         <control controlID="2" controlTypeID="com.balsamiq.mockups::Component" x="5" y="7" w="14" h="14" measuredW="14" measuredH="14" zOrder="2" locked="false" isInGroup="254">
           <controlProperties>
             <override controlID="0" x="0" y="0" w="14" h="14"/>
-            <override controlID="-1"/>
             <src>./assets/Touch%20Gesture%20Notation.bmml#gesture-touch</src>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="255" controlTypeID="__group__" x="1015" y="1869" w="71" h="61" measuredW="71" measuredH="61" zOrder="94" locked="false" isInGroup="-1">
+    <control controlID="255" controlTypeID="__group__" x="1015" y="1869" w="155" h="150" measuredW="155" measuredH="150" zOrder="94" locked="false" isInGroup="-1">
       <controlProperties>
         <markup>true</markup>
       </controlProperties>
@@ -1566,6 +1567,7 @@
         <control controlID="2" controlTypeID="com.balsamiq.mockups::Component" x="5" y="0" w="14" h="14" measuredW="14" measuredH="14" zOrder="2" locked="false" isInGroup="255">
           <controlProperties>
             <override controlID="0" x="0" y="0" w="14" h="14"/>
+            <override controlID="-1"/>
             <src>./assets/Touch%20Gesture%20Notation.bmml#gesture-touch</src>
           </controlProperties>
         </control>
